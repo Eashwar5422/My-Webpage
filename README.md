@@ -1,2 +1,3 @@
-# My-Webpage
-just for learning sake
+<?php
+$x=50
+echo x;
